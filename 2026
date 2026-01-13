@@ -21,7 +21,7 @@ local function isWhitelisted(username)
 end
 
 if not isWhitelisted(LocalPlayer.Name) then
-    LocalPlayer:Kick("Chinga Tu Madre Perrita, Pagame El Script O Chupame Toda Mi Riata")
+    LocalPlayer:Kick(" Youtuberpr1 ")
 end
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/02052011Rafael/02052011Rafael/refs/heads/main/Librerya%20Toxic"))()
@@ -4903,7 +4903,7 @@ end)
 local Credits = window:AddTab("Credits")
 
 Credits:AddLabel("Toxic Paid V3")
-Credits:AddLabel("Script Hecho por: Rafael")
-Credits:AddLabel("Tiktok:DeathKiller")
-Credits:AddLabel("MVX ON TOP ð¥")
-Credits:AddLabel("JASSON MI VIEJA")
+Credits:AddLabel("Script Mejorado por Youtuberpr1 ")
+Credits:AddLabel("Tiktok Youtuberpr1 ")
+Credits:AddLabel("Youtuberpr1")
+Credits:AddLabel("Night_L9")
